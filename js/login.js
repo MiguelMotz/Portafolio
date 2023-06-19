@@ -1,5 +1,5 @@
 let signUp = document.getElementById("signUp");
-let signIn = document.getElementById("signUp");
+let signIn = document.getElementById("signIn");
 let nameInput = document.getElementById("nameInput");
 let title = document.getElementById("title");
 
