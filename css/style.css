@@ -255,3 +255,15 @@ body{
 
 */
 
+/*Testimony*/
+
+.testimony{
+    background-color: #ffffff;
+}
+
+.testimony_container{
+    display: grid;
+    grid-template: 50px 1fr 50px;
+    gap: 1em;
+    align-items: center;
+}
